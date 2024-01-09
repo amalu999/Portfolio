@@ -1,0 +1,25 @@
+.navbar{
+    display: flex;
+    background-color: darkslateblue;
+    margin-top: -8px;
+    
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    
+    
+}
+.navbar span{
+    padding: 5px;
+    display: inline-block;
+    padding-right:20px;
+    
+}
+
+.headings{
+    text-align: center;
+   
+}
